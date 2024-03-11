@@ -265,7 +265,7 @@ main h2 {
     .banner-ad h2 {
         position: static;
         left: 10px;
-        top: 10px;
+        top: 12px;
         color: rgb(238, 238, 238);
         font-size: 12px;
         font-style: italic;
@@ -276,7 +276,7 @@ main h2 {
 
     .banner-ad {
         width: 57%;
-        height: 110px;
+        height: 107px;
         background-color: rgb(16, 15, 15);
         position: static;
         background-image: url('img/back/poeira.jpg');
