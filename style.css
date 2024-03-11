@@ -528,7 +528,7 @@ h5 {
 
 }
 
-@media (max-width:700px) {
+@media (max-width:750px) {
     h5 {
         font-size: 21px;
         color: white;
@@ -547,7 +547,7 @@ h5 {
     }
 
     .posts {
-        width: 540px;
+        width: 535px;
         float: left;
 
     }
