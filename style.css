@@ -422,12 +422,12 @@ h5 {
     .container {
         width: 85%;
         margin: 0 auto;
-        padding: 10px;
+        padding: 4px;
 
     }
 
     .posts {
-        width: 720px;
+        width: 700px;
         float: left;
 
     }
@@ -458,7 +458,7 @@ h5 {
     }
 
     .container img {
-        width: 700px;
+        width: 680px;
         height: 390px;
         border: 2px solid black;
         border-radius: 10px 10px 10px 10px;
